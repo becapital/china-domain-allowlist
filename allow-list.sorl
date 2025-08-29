@@ -4,6 +4,12 @@
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+;白鹿山人新增部分都写在此-20250829
+*.ecoccpit.net
+*.singlewindow.cn
+*.ecer.com
+*.siliconflow.cn
+
 ; 内网 IP 地址段
 10.*.*.*
 100.64.*.*
@@ -1240,3 +1246,4 @@
 *.zku.net
 *.znyj365.com
 *.zto.com
+
