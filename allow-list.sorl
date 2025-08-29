@@ -10,6 +10,7 @@
 *.singlewindow.cn
 *.ecer.com
 *.siliconflow.cn
+*.iloveimg.com
 
 ; 内网 IP 地址段
 10.*.*.*
@@ -1247,5 +1248,6 @@
 *.zku.net
 *.znyj365.com
 *.zto.com
+
 
 
